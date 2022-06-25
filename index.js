@@ -16,6 +16,7 @@ if (operator == "+") {
   result = number1 / number2;
 }
 
+// to show the result as an alert  instead of viewing when page is inspect
 console.log (alert(`${number1} ${operator} ${number2} = ${result}`));
 
 
