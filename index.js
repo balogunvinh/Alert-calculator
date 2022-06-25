@@ -16,4 +16,7 @@ if (operator == "+") {
   result = number1 / number2;
 }
 
-console.log(`${number1} ${operator} ${number2} = ${result}`);
+console.log (alert(`${number1} ${operator} ${number2} = ${result}`));
+
+
+
